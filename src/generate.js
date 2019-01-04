@@ -1,6 +1,5 @@
 import chroma from 'chroma-js'
 import * as Curves from './curves.js'
-import bezier from 'bezier-easing'
 
 function distribute(value, rangeA, rangeB) {
 
